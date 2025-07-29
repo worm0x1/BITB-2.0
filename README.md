@@ -34,7 +34,7 @@ Many large companies, such as **Google**, **Facebook**, and **Twitter**, block t
 ![Screenshot2](https://i.postimg.cc/jqwRd4Sz/Screenshot-2025-07-29-17-27-59-11-40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 **🎥 Educational Demo**
-> https://youtu.be/8tWrX9j5Nuo
+> https://youtube.com/shorts/nrfAEaHKOO4
 
 ---
 
