@@ -4,12 +4,12 @@ This educational project demonstrates how **Browser-in-the-Browser (BITB)** atta
 
 ---
 
-## 🚨 How to Protect Yourself:
+## 🚨 Protect Yourself:
 Always verify URLs, enable 2FA, and avoid entering credentials in pop-up windows. Also, ensure your website is protected from being embedded in an **iframe**.
 
 ---
 
-## 🛡️ Preventing Your Website from Being Iframed:
+## 🛡️ Protect Web from Iframed:
 
 Websites can prevent their content from being embedded in iframes by using HTTP headers like **X-Frame-Options** or **Content-Security-Policy (CSP)**. This prevents attackers from creating fake login pages inside iframes on malicious sites.
 
@@ -21,7 +21,7 @@ Websites can prevent their content from being embedded in iframes by using HTTP 
 
 ---
 
-## 🌐 Popular Websites Using Iframe Protection:
+## 🌐 Web Using Iframe Protection:
 
 Many large companies, such as **Google**, **Facebook**, and **Twitter**, block their sites from being embedded in iframes to prevent phishing and other types of attacks.
 
