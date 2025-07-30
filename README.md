@@ -27,6 +27,12 @@ Many large companies, such as **Google**, **Facebook**, and **Twitter**, block t
 
 ---
 
+**🌐 Free Hosting & Subdomain**
+
+> https://youtu.be/TV8CI3w6P
+
+---
+
 **📸 How does this look?**
 
 ![Screenshot1](https://i.postimg.cc/4ydZzp6T/Screenshot-2025-07-29-17-23-45-83-40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
